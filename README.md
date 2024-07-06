@@ -40,7 +40,7 @@ pip install -r requirements.txt
 3. Run the script:
 
 ```bash
-python langchain_pdf_reader.py
+python main.py
 ```
 
 The script will output the answers to your questions based on the processed PDF content.
